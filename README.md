@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kaffe-ai
 <!--- - 👀 I’m interested in ... --->
-- 🌱 I’m currently learning Python and the C programming language
-- 💞️ I’m looking to collaborate on anything!
+- 🌱 I’m currently studying Computer Science (Informatikk) at the Arctic University of Norway
+- 💞️ I’m looking to collaborate!
 - 📫 How to reach me -> omega_male on Discord
 
 <!---
